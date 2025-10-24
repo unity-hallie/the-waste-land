@@ -5,4 +5,4 @@ Cups
 
 Swords
 
-[[Arcana]]
+[[Major Arcana]]
