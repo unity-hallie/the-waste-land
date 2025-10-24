@@ -1,0 +1,1 @@
+Spreads are ways of laying out tarot cards to tell a fortune.

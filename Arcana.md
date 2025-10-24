@@ -1,0 +1,1 @@
+Arcana are the cards of the taro

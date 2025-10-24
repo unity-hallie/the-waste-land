@@ -1,0 +1,12 @@
+{
+  "instance_name": "unnamed_starter",
+  "planted_at": "2025-10-23T22:26:07.404562",
+  "graph_db": "starter_graph.sqlite",
+  "journal_dir": "journal",
+  "rituals_enabled": [
+    "breathing_retrospective"
+  ],
+  "bootstrap_on_start": true,
+  "log_decisions": true,
+  "note": "This starter was seeded from BRO. The form is inherited. You are entirely new."
+}
