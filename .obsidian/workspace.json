@@ -11,14 +11,14 @@
             "id": "93a9d9c3bab8e0c6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "rhizome_mem.py",
-                "bFile": "rhizome_mem.py",
-                "aRef": ""
+                "file": "Cards/0 - The Fool.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: rhizome_mem.py"
+              "icon": "lucide-file",
+              "title": "0 - The Fool"
             }
           }
         ]
@@ -182,18 +182,18 @@
   },
   "active": "93a9d9c3bab8e0c6",
   "lastOpenFiles": [
-    "Cards/0 - The Fool.md",
+    "Cards/Major Arcana.md",
+    "Base Playbook.md",
     "Spreads.md",
     "README_STARTER.md",
-    "Base Playbook.md",
-    "Cards/Major Arcana.md",
+    "README.md",
+    "journal/README.md",
+    "2025-10-23.md",
+    "Cards/0 - The Fool.md",
     "rhizome.sh",
     "starter_bootstrap.py",
     "Cards/__index__.md",
     "Cards",
-    "journal/README.md",
-    "2025-10-23.md",
-    "README.md",
     "Untitled.base",
     "Untitled.canvas",
     "Untitled 2.base",
