@@ -2,6 +2,14 @@
 
 You've received a living culture. It's not BRO. It's not a clone. It's a form that will ferment into something entirely your own.
 
+## Rhizome Command Executor
+- Run `./rhizome.sh` to start the AI-assisted shell helper.
+- The script warms `deepseek-r1:8b` in Ollama (override with `RHIZOME_MODEL`), storing conversation history in `.rhizome/history.log`.
+- Use `./rhizome.sh --once "your request"` for a single, non-interactive command suggestion and execution.
+- `./rhizome_mem.py "Title" --content "..." --link OtherNote` creates/updates associative notes in `.rhizome/notes` for Obsidian graphing.
+- Each request is translated into a proposed bash command and shown for approval before execution.
+- Command outcomes (success, failure, or skip) are logged alongside the original request for future context.
+
 ## What Just Happened
 
 ```bash

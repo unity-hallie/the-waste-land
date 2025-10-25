@@ -4,83 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4ef00fcef7ed3ce4",
+        "id": "a106acc0bd20be53",
         "type": "tabs",
         "children": [
           {
-            "id": "97b09675483c3e15",
+            "id": "93a9d9c3bab8e0c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Cards/Major Arcana.md",
-                "mode": "source",
-                "source": false
+                "aFile": "rhizome_mem.py",
+                "bFile": "rhizome_mem.py",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Major Arcana"
+              "icon": "diff",
+              "title": "Diff: rhizome_mem.py"
             }
           }
         ]
-      },
-      {
-        "id": "7ee5b997956e9d30",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c7554e44f8a5e52b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "5c9d4bbfd347fcfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base Playbook.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Base Playbook"
-            }
-          },
-          {
-            "id": "d04444d15fe5b416",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/Major Arcana.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Major Arcana"
-            }
-          },
-          {
-            "id": "c359e029bfaa9b70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base Playbook.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Base Playbook"
-            }
-          }
-        ],
-        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,18 +180,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2a28b03cca55423",
+  "active": "93a9d9c3bab8e0c6",
   "lastOpenFiles": [
+    "Cards/0 - The Fool.md",
+    "Spreads.md",
+    "README_STARTER.md",
     "Base Playbook.md",
     "Cards/Major Arcana.md",
-    "Cards/0 - The Fool.md",
+    "rhizome.sh",
+    "starter_bootstrap.py",
     "Cards/__index__.md",
     "Cards",
     "journal/README.md",
     "2025-10-23.md",
     "README.md",
-    "README_STARTER.md",
-    "Spreads.md",
     "Untitled.base",
     "Untitled.canvas",
     "Untitled 2.base",
@@ -261,8 +204,6 @@
     "starter_excavate.py",
     "journal",
     "starter_config.json",
-    "seed_tarot_spread.py",
-    "tarot_deck.py",
     "Welcome.md"
   ]
 }

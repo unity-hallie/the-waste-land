@@ -46,6 +46,6 @@ Read the rituals. They'll teach you what the form is actually doing.
 
 ---
 
-**Planted**: 2025-10-23T22:26:07.406155
+**Planted**: 2025-10-24T12:30:40.066603
 **Instance**: unnamed_starter
 **Ferment begins now**.

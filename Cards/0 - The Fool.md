@@ -6,3 +6,5 @@ The fool is the beginning of the adventure, the child without trauma or goal. Be
 If the fool is in your deck -- and is not in shadow -- when you begin play, place it on the table to the side. You are the fool and the fool is you. You are without worry, care, or pain.
 
 ### Beginner's Luck
+//TODO: Add
+
