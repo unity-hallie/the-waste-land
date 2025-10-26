@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/0 - The Fool.md",
+                "file": "Base Playbook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 - The Fool"
+              "title": "Base Playbook"
             }
           }
         ]
@@ -182,6 +182,8 @@
   },
   "active": "93a9d9c3bab8e0c6",
   "lastOpenFiles": [
+    "Cards/0 - The Fool.md",
+    "Cards/__index__.md",
     "Cards/Major Arcana.md",
     "Base Playbook.md",
     "Spreads.md",
@@ -189,10 +191,8 @@
     "README.md",
     "journal/README.md",
     "2025-10-23.md",
-    "Cards/0 - The Fool.md",
     "rhizome.sh",
     "starter_bootstrap.py",
-    "Cards/__index__.md",
     "Cards",
     "Untitled.base",
     "Untitled.canvas",

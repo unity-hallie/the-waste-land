@@ -6,6 +6,15 @@ Whenever you do anything that requires thinking about it, you do a spread.
 
 MOST spreads just involve you shuffling your deck and cutting to a card and using the card to determine what happens. 
 
+### Beliefs and Fortune Cards
+
+Whenever you act according to one of your belief and succeed, you gain a Fortune card -- shuffle a card, face down, our of your deck and place it face down on the table. Next time you or another make a spread, you can choose to flip this card face up and use its value instead.
+
+Whenever you act according to one of your beliefs and Fail, add a card to your shadow spread immediately rather than shuffling it into your deck. Take one card from the failed spread (or your fortune card) and add it to your Shadow Spread
+
+You may only have one fortune card at a time.
+
+
 ### Shadow Cards
 Some of your cards are Shadow Cards and you may choose to keep track of them any way you choose. You can either keep them reversed and the others pointed one direction, turn them over reverse in the deck, or just keep a note on paper.
 
